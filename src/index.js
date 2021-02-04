@@ -4,7 +4,7 @@
  * @Author: kgm
  * @Date: 2021-01-22 17:18:31
  * @LastEditors: kgm
- * @LastEditTime: 2021-02-01 14:46:37
+ * @LastEditTime: 2021-02-02 11:54:07
  */
 import React from 'react';
 import ReactDOM from 'react-dom';
@@ -15,9 +15,9 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
-  // <React.StrictMode>
-    <App />,
-  // </React.StrictMode>,
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>,
   document.getElementById('root')
 );
 
