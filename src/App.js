@@ -4,7 +4,7 @@
  * @Author: kgm
  * @Date: 2021-01-22 17:18:31
  * @LastEditors: kgm
- * @LastEditTime: 2021-02-02 10:08:46
+ * @LastEditTime: 2021-02-04 09:55:18
  */
 // import logo from './logo.svg';
 import './App.css';
@@ -14,7 +14,7 @@ import {
   Switch,
   Route,
 } from "react-router-dom"
-import Layout from "./components/layout"
+import Layout from "./components/Layout"
 import Login from "./views/login"
 class App extends React.Component {
   render(){
