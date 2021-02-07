@@ -4,9 +4,9 @@
  * @Author: kgm
  * @Date: 2021-01-27 11:33:35
  * @LastEditors: kgm
- * @LastEditTime: 2021-02-07 09:48:09
+ * @LastEditTime: 2021-02-07 15:20:50
  */
-import "./index.less"
+import "./index.css"
 import React, { Component } from "react"
 import { Table, Input, Button } from 'antd';
 const columns = [
