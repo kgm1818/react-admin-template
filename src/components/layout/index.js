@@ -4,7 +4,7 @@
  * @Author: kgm
  * @Date: 2021-02-02 09:16:00
  * @LastEditors: kgm
- * @LastEditTime: 2021-02-05 17:23:05
+ * @LastEditTime: 2021-02-07 09:34:36
  */
 import "./index.css"
 import React, { Fragment } from "react"
@@ -128,8 +128,7 @@ class _Layout extends React.Component {
           <Footer style={{ textAlign: 'center' }}>Ant Design ©2018 Created by Ant UED</Footer>
         </Layout>
       </Layout>
-      </Fragment>
-      
+      </Fragment>  
     )
   };
 }
